@@ -3,6 +3,11 @@ QMK implementation of the [Graphite](https://github.com/rdavison/graphite-layout
 
 Oryx version available [here](https://configure.zsa.io/moonlander/layouts/p6jab/latest/0)
 
+## Usage (For Moonlander MK1)
+Process is just about the same for regular QMK firmware as well.
+
+- Clone QMK Firmware (for ZSA you can find it [here](https://github.com/zsa/qmk_firmware)).
+- Copy paste [graphite](./graphite/) directory into `/keyboards/zsa/moonlander/keymaps/`
 
 ## Changes
 The position of Ö, Ä and Å are optimal for typing in Finnish. For Swedish switching Å with Ä would probably be better.
