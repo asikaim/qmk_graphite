@@ -1,4 +1,5 @@
 # Graphite Layout for QMK Firmware
+![Layout](./layout.png)
 QMK implementation of the [Graphite](https://github.com/rdavison/graphite-layout) layout for the [Moonlander](https://www.zsa.io/moonlander/) keyboard with some Scandic changes.
 
 Oryx version available [here](https://configure.zsa.io/moonlander/layouts/p6jab/latest/0)
